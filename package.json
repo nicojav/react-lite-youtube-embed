@@ -1,5 +1,5 @@
 {
-  "name": "react-lite-youtube-embed",
+  "name": "@nicojav/react-lite-youtube-embed",
   "version": "2.5.5-rc1",
   "description": "A private by default, faster and cleaner YouTube embed component for React applications",
   "type": "module",
